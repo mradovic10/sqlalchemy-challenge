@@ -39,7 +39,7 @@ def welcome():
     """List all available api routes."""
     
     return (
-        f"Welcome to the Home of Hawaii Weather Data!<br/>"
+        f"Welcome to the Home of Honolulu Weather Data!<br/>"
         f"Available Routes:<br/>"
         f"/api/v1.0/precipitation<br/>"
         f"/api/v1.0/stations<br/>"
