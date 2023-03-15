@@ -5,7 +5,7 @@ For this challenge, I was tasked with completing a climate analysis of Honolulu,
 
 Next, I created a Climate App by designing a Flask API based on the queries from the first section. The homepage of the App offers the user five routes to specified APIs.
 
-This repository includes the 'climate_data' Jupyter Notebook file and the 'app' Python file. Furthermore, there is a 'Resources' folder that contains the 'hawaii.sqlite', 'hawaii_measurements', and 'hawaii_stations' files.
+This repository includes the 'climate_data' Jupyter Notebook file and the 'app' Python file. Comments and relevant notes are found throughout both files. Furthermore, there is a 'Resources' folder that contains the 'hawaii.sqlite', 'hawaii_measurements', and 'hawaii_stations' files.
 
 Surf's up!
 
